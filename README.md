@@ -1,2 +1,2 @@
-# Project2_Progress2
-Added hazard
+# JSPlatformer
+JS Platformer for DIG 3480C
